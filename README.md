@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/billyawan/prakmds/assets/142286540/eae03ac9-ae5e-41a2-a2a8-6e6a08d2a246" width="337" height="300">
+<img src="https://github.com/billyawan/prakmds/assets/142286540/eae03ac9-ae5e-41a2-a2a8-6e6a08d2a246" width="337" height="250">
 
 
 
