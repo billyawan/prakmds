@@ -14,7 +14,7 @@
 
 </p>
 
-[Tentang](#newspaper-Tentang)
+[Tentang](#newspaper-tentang)
 •
 [Deskripsi Project](#open_book-Project)
 •
@@ -29,7 +29,7 @@
 
 </div>
 
-# 📰: tentang
+# :newspaper: Tentang
 
 **Sekilas Tentang IBL**
 
