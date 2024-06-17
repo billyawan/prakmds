@@ -24,7 +24,7 @@
 •
 [PPT](#computer-PPT)
 •
-[Pengembang](#panda_face-Pengembang)
+[Pengembang](#compass-Pengembang)
 
 
 </div>
