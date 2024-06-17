@@ -14,7 +14,7 @@
 
 </p>
 
-[Introduction](#paperclip-Introduction)
+[Tentang](#newspaper-Tentang)
 •
 [Deskripsi Project](#open_book-Project)
 •
@@ -29,7 +29,7 @@
 
 </div>
 
-# 📎: Introduction
+# 📰: tentang
 
 **Sekilas Tentang IBL**
 
