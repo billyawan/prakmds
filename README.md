@@ -41,7 +41,7 @@ IBL adalah singkatan dari "Indonesia Basketball League," yang merupakan liga bol
 
 <div align="center">
     
- ![image](https://github.com/kevinsoewari/IBL-Scraping/assets/165129110/17cc04f3-b00f-4956-96d3-dfd00b117f1a)
+ ![image](https://github.com/billyawan/prakmds/assets/142286540/44e53a75-3410-4fa8-aa49-535092dbcb37)
 
 </p>
 
