@@ -14,7 +14,7 @@
 
 </p>
 
-[Tentang](#newspaper-Tentang)
+[Introduction](#paperclip-Introduction)
 •
 [Deskripsi Project](#open_book-Project)
 •
