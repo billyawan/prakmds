@@ -92,5 +92,5 @@ Berikut adalah link powerpoint yang memuat projek ini :
 
 
 
-## :panda_face: Pengembang
+## :compass: Pengembang
 + [Billy](https://github.com/billyawan) (G1501231034)
