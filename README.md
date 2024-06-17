@@ -29,7 +29,7 @@
 
 </div>
 
-# :newspaper: Tentang
+# 📎: Introduction
 
 **Sekilas Tentang IBL**
 
@@ -38,7 +38,7 @@ IBL adalah singkatan dari "Indonesia Basketball League," yang merupakan liga bol
 </p>
 
 
-## :open_book: Project 
+## 📂: Project 
 
     
 <div align="center">
@@ -69,7 +69,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 </p>
 
 
-# :books: Dokumen
+# 📘: Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk pemain IBL :
 ```mongodb
 {
@@ -81,16 +81,16 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk pemain IBL :
 }
 ```
 
-## :bar_chart: Visualiasi-Data-Scraping
+## 💈: Visualiasi-Data-Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
 + [IBL(Indonesian Basket League) Data Scraping and Visualization](https://rpubs.com/alifviansyah/iblscraping)
 
 
-## :computer: PPT
+## 📓: PPT
 Berikut adalah link powerpoint yang memuat projek ini :
-(https://github.com/kevinsoewari/IBL-Scraping/blob/main/PPT-IBL-Scraping.pdf)
 
 
 
-## :panda_face: Pengembang
-+ [Kevin_Alifviansyah](https://github.com/kevinsoewari/) (G1501231018)
+
+## 🧑: Pengembang
++ [Billy](https://github.com/billyawan) (G1501231034)
