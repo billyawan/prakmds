@@ -31,10 +31,10 @@
 
 # :newspaper: Tentang
 
-**Sekilas Tentang IBL**
+**Sekilas Tentang Liga1**
 
 <p align="justify">
-IBL adalah singkatan dari "Indonesia Basketball League," yang merupakan liga bola basket profesional di Indonesia. Liga ini dikelola oleh Perbasi (Persatuan Bola Basket Seluruh Indonesia) dan bertujuan untuk mempromosikan dan mengembangkan olahraga bola basket di Indonesia.
+Liga 1 atau yang juga dikenal sebagai BRI Liga 1 karena alasan sponsor oleh Bank Rakyat Indonesia, adalah liga profesional tingkat pertama dalam sistem liga sepak bola Indonesia. Liga 1 diikuti oleh 18 klub dan menggunakan sistem promosi dan degradasi, dengan PT Liga Indonesia Baru sebagai operator resmi liga
 </p>
 
 
