@@ -27,7 +27,7 @@
 
 </div>
 
-# 💡: Tentang
+# :bulb: Tentang
 
 **Sekilas Tentang Liga1**
 
@@ -36,7 +36,7 @@ Liga 1 atau yang juga dikenal sebagai BRI Liga 1 karena alasan sponsor oleh Bank
 </p>
 
 
-## 🚧: Project 
+## :construction: Project 
 
     
 <div align="center">
@@ -68,7 +68,7 @@ Data yang akan discraping pada projek ini mencakup beberapa hal seperti yang ter
 </p>
 
 
-# 📑: Dokumen
+# :bookmark_tabs: Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk Tim Liga1 :
 ```mongodb
 {
@@ -84,7 +84,7 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Tim Liga1 :
 }
 ```
 
-## 🔎: PPT
+## :mag_right: PPT
 Berikut adalah link powerpoint yang memuat projek ini :
 
 
