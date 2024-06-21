@@ -60,12 +60,12 @@ Data yang akan discraping pada projek ini mencakup beberapa hal seperti yang ter
 
  <p align="justify">
       
-+**Menang**	: Frekuensi menang dari sebuah tim
-+**Seri**	: Frekuensi seri dari sebuah tim
-+**Kalah**	: Frekuensi kalah dari sebuah tim
-+**GF**	: Goals For, frekuensi gol yang berhasil dicetak tim
-+**GA**	: Goals Against. frekuensi frekuensi total kebobolan gol 	  oleh pihak lawan. 
-+**GD**	: Goals Difference, selisih antara GF dan GA
++ **Menang**	: Frekuensi menang dari sebuah tim
++ **Seri**	: Frekuensi seri dari sebuah tim
++ **Kalah**	: Frekuensi kalah dari sebuah tim
++ **GF**	: Goals For, frekuensi gol yang berhasil dicetak tim
++ **GA**	: Goals Against. frekuensi frekuensi total kebobolan gol 	  oleh pihak lawan. 
++ **GD**	: Goals Difference, selisih antara GF dan GA
 
 </p>
 
