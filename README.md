@@ -87,8 +87,7 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Tim Liga1 :
 
 ## :mag_right: PPT
 Berikut adalah link powerpoint yang memuat projek ini :
-
-
+https://github.com/billyawan/prakmds/blob/main/PPT-Sepakbola.pdf
 
 
 ## :rocket: Pengembang
