@@ -64,6 +64,7 @@ Data yang akan discraping pada projek ini mencakup beberapa hal seperti yang ter
 + **GF**	: Goals For, frekuensi gol yang berhasil dicetak tim
 + **GA**	: Goals Against. frekuensi frekuensi total kebobolan gol 	  oleh pihak lawan. 
 + **GD**	: Goals Difference, selisih antara GF dan GA
++ **poin**  : Jumlah poin yang telah dikumpulkan oleh setiap tim sepanjang musim
 
 </p>
 
