@@ -10,26 +10,24 @@
 
 <p align="center">
     
-# 🧦: Menu
+# ⚽: Menu
 
 </p>
 
-[Tentang](#newspaper-tentang)
+[Tentang](#bulb-tentang)
 •
-[Deskripsi Project](#open_book-Project)
+[Deskripsi Project](#construction-Project)
 •
-[Dokumen](#books-Dokumen)
+[Dokumen](#bookmark_tabs-Dokumen)
 •
-[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
+[PPT](#mag_right-PPT)
 •
-[PPT](#computer-PPT)
-•
-[Pengembang](#compass-Pengembang)
+[Pengembang](#rocket-Pengembang)
 
 
 </div>
 
-# :newspaper: Tentang
+# 💡: Tentang
 
 **Sekilas Tentang Liga1**
 
@@ -38,7 +36,7 @@ Liga 1 atau yang juga dikenal sebagai BRI Liga 1 karena alasan sponsor oleh Bank
 </p>
 
 
-## :open_book: Project 
+## 🚧: Project 
 
     
 <div align="center">
@@ -70,7 +68,7 @@ Data yang akan discraping pada projek ini mencakup beberapa hal seperti yang ter
 </p>
 
 
-# :books: Dokumen
+# 📑: Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk Tim Liga1 :
 ```mongodb
 {
@@ -86,16 +84,11 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk Tim Liga1 :
 }
 ```
 
-## :bar_chart: Visualiasi-Data-Scraping
-Berikut merupakan link data visualisasi dari hasil scraping : 
-+ [IBL(Indonesian Basket League) Data Scraping and Visualization](https://rpubs.com/alifviansyah/iblscraping)
-
-
-## :computer: PPT
+## 🔎: PPT
 Berikut adalah link powerpoint yang memuat projek ini :
 
 
 
 
-## :compass: Pengembang
+## 🚀: Pengembang
 + [Billy](https://github.com/billyawan) (G1501231034)
