@@ -71,14 +71,18 @@ Data yang akan discraping pada projek ini mencakup beberapa hal seperti yang ter
 
 
 # :books: Dokumen
-Berikut adalah salah satu contoh dokumen di MongoDB untuk pemain IBL :
+Berikut adalah salah satu contoh dokumen di MongoDB untuk Tim Liga1 :
 ```mongodb
 {
-    "_id":{"$oid":"6663b9cb016e23532e016261"},
-    "nama_pemain":"Lester Prosper",
-    "point_pemain":"325",
-    "assist_pemain":"30",
-    "rebound_pemain":"189"
+  _id: ObjectId('6666e9c13940de3fe0072061'),
+  team: 'PERSEBAYA',
+  menang: 15,
+  kalah: 12,
+  seri: 7,
+  GF: 52,
+  GA: 45,
+  GD: 7,
+  poin: 52
 }
 ```
 
