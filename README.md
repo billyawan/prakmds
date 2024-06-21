@@ -48,24 +48,25 @@ Liga 1 atau yang juga dikenal sebagai BRI Liga 1 karena alasan sponsor oleh Bank
 </p>
 
 <p align="justify">
-Pada proyek kali ini, yaitu melakukan scraping pada situs web https://iblindonesia.com/. Situs web ini dikenal dengan nama "IBL Indonesia." Ini adalah platform yang menyediakan informasi dan berita terbaru tentang liga bola basket profesional di Indonesia. IBL Indonesia dikenal karena memberikan informasi terperinci tentang pertandingan, pemain, tim, dan peringkat dalam liga.
+Project praktikum ini mencakup scraing pada website https://ligaindonesiabaru.com/table/index/BRI_LIGA_1_2022-2023. website tersebut merupakan website "Liga Indonesia" yang menyediakan informasi mengenari berita terkini seputar Liga Indoneisa, Jadwal, Klasemen, dan lain-lain.
 </p>
 
-<p align="justify">
-IBL Indonesia dianggap sebagai sumber tepercaya untuk evaluasi kualitas dan perkembangan dalam industri bola basket Indonesia, dan digunakan oleh penggemar serta profesional industri untuk membuat keputusan yang lebih baik terkait pertandingan, pemain, dan tim bola basket.
-</p>
 
 </div>
 
 <p align="justify">
-Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
+Data yang akan discraping pada projek ini mencakup beberapa hal seperti yang terurai di Bawah ini;
  </p>
 
  <p align="justify">
       
-+ **Point Pemain** beberapa pemain yang mencetak point dari setiap team
-+ **Assist Pemain** Rangkuman pemain yang mencetak assist dalam setiap pertandingan
-+ **Rebound Pemain** Rangkuman banyak rebound yang dicetak oleh pemain 
++**Menang**	: Frekuensi menang dari sebuah tim
++**Seri**	: Frekuensi seri dari sebuah tim
++**Kalah**	: Frekuensi kalah dari sebuah tim
++**GF**	: Goals For, frekuensi gol yang berhasil dicetak tim
++**GA**	: Goals Against. frekuensi frekuensi total kebobolan gol 	  oleh pihak lawan. 
++**GD**	: Goals Difference, selisih antara GF dan GA
+
 </p>
 
 
