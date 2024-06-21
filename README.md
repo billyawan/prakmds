@@ -90,5 +90,5 @@ Berikut adalah link powerpoint yang memuat projek ini :
 
 
 
-## 🚀: Pengembang
+## :rocket: Pengembang
 + [Billy](https://github.com/billyawan) (G1501231034)
